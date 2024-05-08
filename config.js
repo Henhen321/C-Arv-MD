@@ -69,7 +69,7 @@ global.tekspushcontact = "Izin Push"
 global.typemenu = "v6"
 // Ini type menu nya
 // v1 - v2 - v3 - v4 - v5 - v6
-global.typeallmenu = "v1"
+global.typeallmenu = "v5"
 // Ini type allmenu nya
 // v1 - v2 - v3 - v4 - v5 - v6
 global.game = true
@@ -92,7 +92,7 @@ global.autoTyping = true
 // False (Nonaktifin)
 global.autoBio = true
 // False (Nonaktifin)
-global.autoRestart = true
+global.autoRestart = false
 // False (Nonaktifin)
 // AutoRestart Cocok Tuk Panel Butut
 global.mess = {
